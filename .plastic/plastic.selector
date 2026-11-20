@@ -1,0 +1,4 @@
+repository "MyShootingGame/MyShootingGame@33262860431783@cloud"
+  path "/"
+    br "/main"
+    co "/main"
